@@ -1,0 +1,66 @@
+************Using gitbash****************
+
+
+mkdir FOLDER_NAME
+
+echo "# Advanced Regression" README.md
+
+############## git init ###########
+git init
+
+
+############## Config ###########
+git config user.name leo-gary
+git config user.email gaurav.khanna.leo@gmail.com
+
+
+############## Config ###########
+git config user.name
+git config user.email
+
+
+##########
+git status
+
+############## git add ###########
+git add .    ->> . means all files in that folder
+OR
+git add FILE_NAME
+
+git status -> status of the add 
+
+
+####################################
+git commit -m "COMMENTS"
+
+
+git status 
+
+
+
+
+########################### git branch ##########
+
+git branch -->> git branch
+
+
+git remote add origin https://github.com/leo-gary/AdvancedRegression
+
+git push -u origin master
+
+
+
+############################ STEPS to add more files##########
+git status
+
+git add FILE_NAME
+
+
+git commit -m "COMMENT"
+
+git status
+
+git push -u origin master 
+
+#######################################
+
