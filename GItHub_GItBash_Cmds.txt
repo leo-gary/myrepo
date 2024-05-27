@@ -1,0 +1,15 @@
+************Using gitbash****************
+
+
+mkdir FOLDER_NAME
+
+echo "# Advanced Regression" README.md
+git init
+
+git config user.name leo-gary
+
+git config user.email gaurav.khanna.leo@gmail.com
+
+git config user.name
+git config user.email
+
